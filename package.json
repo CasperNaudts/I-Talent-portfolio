@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://CasperNaudts.github.io/CasperNaudts.github.io",
   "dependencies": {
     "@fluentui/react": "^7.105.13",
     "@types/react": "^16.9.32",
@@ -17,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "typescript": "^3.8.3"
   }
 }

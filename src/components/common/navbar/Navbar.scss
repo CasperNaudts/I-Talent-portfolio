@@ -1,0 +1,12 @@
+.portfolio-navbar {
+    height: 34px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;    
+
+    &-item {
+        margin: 0 1em;
+    }
+}

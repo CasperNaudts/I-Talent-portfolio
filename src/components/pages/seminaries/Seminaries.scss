@@ -1,0 +1,31 @@
+@import '~office-ui-fabric-core/dist/sass/_References.scss';
+
+.portfolio-seminaries {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: auto;
+
+    &-row {
+        display: flex;
+        flex-direction: row;
+        
+        &-reverse {
+            display: flex;
+            flex-direction: row-reverse;
+        }
+    }
+
+    &-image {
+        @include ms-depth-64;
+        margin: 2em;
+    }
+    
+    &-text {
+        flex: 1;
+        margin: 2em;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}

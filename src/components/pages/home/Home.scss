@@ -1,0 +1,76 @@
+.portfolio-home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    overflow: auto;
+
+    &-head {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin: 2em;
+        width: 40em;
+        text-align: center;
+    }
+
+    &-projects {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        background: linear-gradient(120deg,#7f70f5,#0ea0ff);
+
+        &-item {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+
+            &-reverse {
+                display: flex;
+                flex-direction: row-reverse;
+                flex-wrap: wrap;
+            }
+
+            &-text {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                min-width: 25em;
+                flex: 1;
+                margin: 2em;
+            }
+
+            &-image {
+                margin: 2em;
+            }
+        }
+    }
+
+    &-experiences {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 2em;
+    }
+
+    &-split {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+
+        &-future {
+            padding: 2em;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        &-reflection {
+            display: flex;
+            flex-direction: column;
+            padding: 2em;
+            flex: 1;
+        }
+    }
+}

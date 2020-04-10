@@ -2,23 +2,22 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100%;
-    overflow: auto;
-
+    flex: 1;
+    
     &-head {
         display: flex;
         align-items: center;
         flex-direction: column;
         margin: 2em;
-        width: 40em;
+        max-width: 40em;
         text-align: center;
     }
-
+    
     &-projects {
         display: flex;
         flex-direction: column;
         width: 100%;
-        background: linear-gradient(120deg,#7f70f5,#0ea0ff);
+        background-color: #ebebeb;
 
         &-item {
             display: flex;

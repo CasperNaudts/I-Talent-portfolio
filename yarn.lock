@@ -1035,14 +1035,40 @@
     "@uifabric/utilities" "^7.15.5"
     tslib "^1.10.0"
 
-"@fluentui/react@^7.105.13":
-  version "7.105.13"
-  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.105.13.tgz#6cb64f63175e532a5c7745755c7e85f7b0c9f5b5"
-  integrity sha512-DH2vCiHuiR0tmhi5224nbiXl+KhlLYQSRfzHJ81iGPFLC4ICyJ5hNwC7+4BMRd+d+0T2nnPHioBXcHcj0jtXSA==
+"@fluentui/react@^7.106.0":
+  version "7.106.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.106.0.tgz#37cd2f182598608e113e7d478b96c219e5a1b41a"
+  integrity sha512-6fj431g1qVgw0e9ZHNpSJgEVBoudRywCJMgwhAIBWdWSGSHIZFoHCdznel6X+i6cy52UcZu1QEvcuZvkQZh5/g==
   dependencies:
     "@uifabric/set-version" "^7.0.9"
-    office-ui-fabric-react "^7.105.12"
+    office-ui-fabric-react "^7.106.0"
     tslib "^1.10.0"
+
+"@fortawesome/fontawesome-common-types@^0.2.28":
+  version "0.2.28"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-0.2.28.tgz#1091bdfe63b3f139441e9cba27aa022bff97d8b2"
+  integrity sha512-gtis2/5yLdfI6n0ia0jH7NJs5i/Z/8M/ZbQL6jXQhCthEOe5Cr5NcQPhgTvFxNOtURE03/ZqUcEskdn2M+QaBg==
+
+"@fortawesome/fontawesome-svg-core@^1.2.28":
+  version "1.2.28"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-svg-core/-/fontawesome-svg-core-1.2.28.tgz#e5b8c8814ef375f01f5d7c132d3c3a2f83a3abf9"
+  integrity sha512-4LeaNHWvrneoU0i8b5RTOJHKx7E+y7jYejplR7uSVB34+mp3Veg7cbKk7NBCLiI4TyoWS1wh9ZdoyLJR8wSAdg==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.2.28"
+
+"@fortawesome/free-brands-svg-icons@^5.13.0":
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/@fortawesome/free-brands-svg-icons/-/free-brands-svg-icons-5.13.0.tgz#e79de73ba6555055204828dca9c0691e7ce5242b"
+  integrity sha512-/6xXiJFCMEQxqxXbL0FPJpwq5Cv6MRrjsbJEmH/t5vOvB4dILDpnY0f7zZSlA8+TG7jwlt12miF/yZpZkykucA==
+  dependencies:
+    "@fortawesome/fontawesome-common-types" "^0.2.28"
+
+"@fortawesome/react-fontawesome@^0.1.9":
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/@fortawesome/react-fontawesome/-/react-fontawesome-0.1.9.tgz#c865b9286c707407effcec99958043711367cd02"
+  integrity sha512-49V3WNysLZU5fZ3sqSuys4nGRytsrxJktbv3vuaXkEoxv22C6T7TEG0TW6+nqVjMnkfCQd5xOnmJoZHMF78tOw==
+  dependencies:
+    prop-types "^15.7.2"
 
 "@hapi/address@2.x.x":
   version "2.1.4"
@@ -1494,10 +1520,10 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/react@^16.9.33":
-  version "16.9.33"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.33.tgz#a5274520f0d28cbbb73c8652ddd48646fd4bcae5"
-  integrity sha512-ovgoy7p9999HDzwv8Sewhl8GJjn/r0GRsFrM9UMwp1uodh0kQ0pwIHLQ6LNfqGSyjNzJ8II/HIg0BL7Yn/B9yA==
+"@types/react@^16.9.34":
+  version "16.9.34"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.9.34.tgz#f7d5e331c468f53affed17a8a4d488cd44ea9349"
+  integrity sha512-8AJlYMOfPe1KGLKyHpflCg5z46n0b5DbRfqDksxBLBTUpB75ypDBAO9eCUcjNwE6LCUslwTz00yyG/X9gaVtow==
   dependencies:
     "@types/prop-types" "*"
     csstype "^2.2.0"
@@ -1621,6 +1647,16 @@
   version "7.15.5"
   resolved "https://registry.yarnpkg.com/@uifabric/utilities/-/utilities-7.15.5.tgz#8c7c4046344f6dc56fe8373aa24cc2a93d8db3ee"
   integrity sha512-cjnhT7tTvHNXt0rvuajk5s/RQtSWFh2JfRhbmS7dTGfg3vNieoHg2EiNt+ulzKXxtdkFriXoFHRSNkTuV4/L9w==
+  dependencies:
+    "@uifabric/merge-styles" "^7.8.11"
+    "@uifabric/set-version" "^7.0.9"
+    prop-types "^15.7.2"
+    tslib "^1.10.0"
+
+"@uifabric/utilities@^7.15.6":
+  version "7.15.6"
+  resolved "https://registry.yarnpkg.com/@uifabric/utilities/-/utilities-7.15.6.tgz#070a0ee4f52257510871e4c356e0e6d5c153f223"
+  integrity sha512-8dLJQ+KeKMC9/Dm1atxIDAfBbBSO11q5VlTUgACGzCM1js3bt50aJWh2MsfjAhYauXS9fJJu1ngRdNEdlRRvcQ==
   dependencies:
     "@uifabric/merge-styles" "^7.8.11"
     "@uifabric/set-version" "^7.0.9"
@@ -7603,10 +7639,10 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.105.12:
-  version "7.105.12"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.105.12.tgz#07806caae28bae2ab9a8a0c15c4d743acd1b1047"
-  integrity sha512-PUmhth8szgLzR6xoN4HkPA0aIahpYr6/sU5oPob5zPRXB2JrhOCnCL9lFsL7/xU0lCFf/OAdoH+ARvF8DcAa0w==
+office-ui-fabric-react@^7.106.0:
+  version "7.106.0"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.106.0.tgz#94e57eba8d142130f62f10f4fb4e7317c21e4f2e"
+  integrity sha512-tTzcyu67Fcy9g3loHk+PbS5CAY/f+M2TVhNpRoB5QnyU/OOzFqaefUwWRI02xHVIAtXoscDtQzEG/FYyn0V+MA==
   dependencies:
     "@fluentui/react-focus" "^7.1.13"
     "@microsoft/load-themed-styles" "^1.10.26"
@@ -7616,7 +7652,7 @@ office-ui-fabric-react@^7.105.12:
     "@uifabric/react-hooks" "^7.1.2"
     "@uifabric/set-version" "^7.0.9"
     "@uifabric/styling" "^7.11.2"
-    "@uifabric/utilities" "^7.15.5"
+    "@uifabric/utilities" "^7.15.6"
     prop-types "^15.7.2"
     tslib "^1.10.0"
 

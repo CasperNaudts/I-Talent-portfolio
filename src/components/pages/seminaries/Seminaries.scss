@@ -3,16 +3,17 @@
 .portfolio-seminaries {
     display: flex;
     flex-direction: column;
-    height: 100%;
-    overflow: auto;
+    flex: 1;
 
     &-row {
         display: flex;
         flex-direction: row;
+        flex-wrap: wrap;
         
         &-reverse {
             display: flex;
             flex-direction: row-reverse;
+            flex-wrap: wrap;
         }
     }
 

@@ -1,3 +1,5 @@
+import { OptionsProp } from "react-wordcloud";
+
 export const Words = [
     {
         text: "Cloud",
@@ -28,11 +30,11 @@ export const Words = [
         value: 1,
     },
     {
-        text: "Reactjs",
+        text: "React js",
         value: 6,
     },
     {
-        text: "Studenten comissie",
+        text: "Studenten commissie",
         value: 5,
     },
     {
@@ -147,4 +149,52 @@ export const Words = [
         text: "SCSS",
         value: 2,
     },
+    {
+        text: "Internationaal",
+        value: 5,
+    },
+    {
+        text: "Wordpress",
+        value: 4,
+    },
+    {
+        text: "Office 365",
+        value: 7,
+    },
+    {
+        text: "Fog",
+        value: 4,
+    },
+    {
+        text: "Unifi",
+        value: 8,
+    },
+    {
+        text: "Ubiquiti",
+        value: 4,
+    },
+    {
+        text: "Google Cloud Platform",
+        value: 5,
+    },
+    {
+        text: "Adobe Premiere Pro",
+        value: 3,
+    }
 ];
+
+export const Options: OptionsProp = {
+    colors: ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b'],
+    enableTooltip: false,
+    deterministic: false,
+    fontFamily: 'impact',
+    fontSizes: [20, 60],
+    fontStyle: 'normal',
+    fontWeight: 'normal',
+    padding: 1,
+    rotations: 5,
+    scale: 'sqrt',
+    spiral: 'archimedean',
+    transitionDuration: 1500,
+  
+};

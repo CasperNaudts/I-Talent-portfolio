@@ -11,7 +11,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div className="portfolio-navbar-items">
                 <div className="portfolio-navbar-items-item">
-                    <Link to="/">Projecten</Link>
+                    <Link to="/">Studie & Projecten</Link>
                 </div>
                 <div className="portfolio-navbar-items-item">
                     <Link to="/seminaries">Seminaries</Link>

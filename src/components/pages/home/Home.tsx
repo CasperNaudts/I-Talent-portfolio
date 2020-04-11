@@ -23,12 +23,14 @@ export const Home: React.FC = () => {
                 <Text variant="large">
                     Hoi! Ik ben Casper Naudts. Ik ben een student toegepaste informatica aan Hogeschool PXL en heb een enorme passie voor nieuwe en inovatieve technologieën.
                 </Text>
+            </div>
+            <div className="portfolio-home-experiences">
+                <Text variant="xxLargePlus">Ervaringen</Text>
                 <br/>
-                <Text variant="large">
-                    Buiten mijn opleiding heb ik reeds enkele projecten opgestart.
-                </Text>
+                <ReactWordcloud options={Options} words={Words}/>
             </div>
             <div className="portfolio-home-projects">
+                <Text variant="xxLargePlus">Projecten</Text>
                 <div className="portfolio-home-projects-item-reverse">
                     <div className="portfolio-home-projects-item-text">
                         <Text variant="xxLargePlus">
@@ -102,10 +104,6 @@ export const Home: React.FC = () => {
                         </Link>
                     </div>
                 </div>
-            </div>
-            <div className="portfolio-home-experiences">
-                <Text variant="xxLargePlus">Ervaringen</Text>
-                <ReactWordcloud options={Options} words={Words}/>
             </div>
             <div className="portfolio-home-split">
                 <div className="portfolio-home-split-reflection">

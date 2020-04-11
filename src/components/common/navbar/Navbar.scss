@@ -1,0 +1,21 @@
+.portfolio-navbar {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;    
+    font-size: 1.5em;
+
+    &-title {
+        margin-left: 1em;
+    }
+    
+    &-items {
+        display: flex;
+        flex-direction: row;
+        
+        &-item {
+            margin: 0.5em 1em;
+        }
+    }
+}

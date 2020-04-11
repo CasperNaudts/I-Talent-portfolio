@@ -1,0 +1,40 @@
+.portfolio-internationaal {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+    &-head {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        &-content {
+            padding: 2em;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 100em;
+        }
+    }
+
+    &-opdracht {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+        &-left {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            min-width: 25em;
+            flex: 1;
+            margin: 2em;
+        }
+
+        &-right {
+            margin: 2em;
+
+        }
+    }
+}

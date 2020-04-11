@@ -1,11 +1,9 @@
-import { Fabric, initializeIcons } from "office-ui-fabric-react";
+import { Fabric } from "office-ui-fabric-react";
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { App } from './App';
 import './index.scss';
 import * as serviceWorker from './serviceWorker';
-
-initializeIcons();
 
 ReactDOM.render(
 	<React.StrictMode>

@@ -14,9 +14,5 @@ jobs:
         node-version: 12.x
     - name: Install Packages
       run: npm install
-    - name: Configure Git
-      run: git config --global user.email "casper.naudts@student.pxl.be" && git config --global user.name "Casper"
-    - name: Deploy to GH Pages
-      run: npm run deploy
-    - name: Updating Domain
-      run: echo "Update domain"
+    - name: Build
+      run: npm run build

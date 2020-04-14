@@ -9,13 +9,15 @@
     &-title {
         margin-left: 1em;
     }
-    
+
     &-items {
         display: flex;
         flex-direction: row;
-        
+
         &-item {
-            margin: 0.5em 1em;
+            color: inherit;
+            padding: 0.5em 1em;
+            text-decoration: none;
         }
     }
 }

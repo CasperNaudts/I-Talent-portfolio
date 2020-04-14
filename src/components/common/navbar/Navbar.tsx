@@ -1,4 +1,5 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
 import { Link } from "../link/Link";
 import "./Navbar.scss";
 
@@ -10,15 +11,30 @@ export const Navbar: React.FC = () => {
                 <Link to="/">I-Talent Casper Naudts</Link>
             </div>
             <div className="portfolio-navbar-items">
-                <div className="portfolio-navbar-items-item">
-                    <Link to="/">Studie & Projecten</Link>
-                </div>
-                <div className="portfolio-navbar-items-item">
-                    <Link to="/seminaries">Seminaries</Link>
-                </div>
-                <div className="portfolio-navbar-items-item">
-                    <Link to="/internationaal">Internationaal</Link>
-                </div>
+                <NavLink
+                    className="portfolio-navbar-items-item"
+                    exact
+                    to="/"
+                    activeStyle={{
+                        fontWeight: "bold",
+                    }}
+                >Studie & Projecten</NavLink>
+                <NavLink
+                    className="portfolio-navbar-items-item"
+                    exact
+                    to="/seminaries"
+                    activeStyle={{
+                        fontWeight: "bold",
+                    }}
+                >Seminaries</NavLink>
+                <NavLink
+                    className="portfolio-navbar-items-item"
+                    exact
+                    to="/internationaal"
+                    activeStyle={{
+                        fontWeight: "bold",
+                    }}
+                >Internationaal</NavLink>
             </div>
         </nav>
     );

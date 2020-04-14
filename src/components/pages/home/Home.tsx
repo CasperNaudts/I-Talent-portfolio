@@ -61,7 +61,7 @@ export const Home: React.FC = () => {
                         </Text>
                         <br/>
                         <Text variant="large">
-                            CloudClass is een platform voor scholen om de communicatie tussen studenten, ouders, lesgevers en directie te verbeteren. Met behulp van modules zoals evaluatie, leerlingvolgsysteem en schoolagenda willen we de comunicatie van scholen stroomlijnen. Zo hoef je in CloudClass bijvoorbeeld een toets maar 1 keer aan te maken en dan komt deze terecht in al de gerelateerde modules. We integreren heel nauw met platformen zoals Office 365 en Gsuite voor zowel login als data representatie. Op deze manier hoeven gebruikers van het platform niet een voledig nieuwe omgeving te leren kennen.
+                            CloudClass is een platform voor scholen om de communicatie tussen studenten, ouders, lesgevers en directie te verbeteren. Met behulp van modules zoals evaluatie, leerlingvolgsysteem en schoolagenda willen we de communicatie van scholen stroomlijnen. Zo hoef je in CloudClass bijvoorbeeld een toets maar één keer aan te maken en dan komt deze terecht in al de gerelateerde modules. We integreren heel nauw met platformen zoals Office 365 en Gsuite, voor zowel login als data representatie. Op deze manier hoeven gebruikers van het platform niet een volledig nieuwe omgeving te leren kennen.
                         </Text>
                         <br/>
                         <Text variant="large">

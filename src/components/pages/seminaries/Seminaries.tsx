@@ -43,7 +43,7 @@ export const Seminaries: React.FC = () => {
                     </Text>
                     <br/>
                     <Text variant="large">
-                        Dit was mijn eerste seminarie en het was direct hands on met nieuwe technologie. We mochten met de hulp van de mensen van Gluo op AWS een hoop services opzetten. We maakten eenzelfde website op verschillende manieren online beschikbaar. Zo gingen we van een website op een virtuele machine draaien naar een hele cluster van webservers met loadbalancers en alles er op en eraan. We hebben het loadbalancen van de servers ook gevisualiseerd door andere inhoud op de verschildende webservers te plaatsen.
+                        Dit was mijn eerste seminarie en het was direct hands-on met nieuwe technologie. We mochten met de hulp van de mensen van Gluo op AWS een hoop services opzetten. We maakten eenzelfde website op verschillende manieren online beschikbaar. Zo gingen we van een website op een virtuele machine draaien naar een hele cluster van webservers met loadbalancers en alles erop en eraan. We hebben het loadbalancen van de servers ook gevisualiseerd door andere inhoud op de verschildende webservers te plaatsen.
                     </Text>
                     <br/>
                     <Text variant="large">
@@ -61,7 +61,7 @@ export const Seminaries: React.FC = () => {
                     </Text>
                     <br/>
                     <Text variant="large">
-                        Tijdens dit seminarie kwam VRT journalist Tim Verheyden op digital@breakfast spreken. Hij stelde zijn reportage Facebook & ik voor, waarin hij laat zien hoe beinvloedbaar we zijn door targeted advertenties. Ikzelf had de serie op VRT al gezien, maar het was zeer interessant om hem te horen spreken over zijn ervaringen. Als ITer lijken veel van de aangehaalde zaken vanzelfsprekend waardoor we soms de impact voor de gewone mens vergeten.
+                        Tijdens dit seminarie kwam VRT-journalist Tim Verheyden op digital@breakfast spreken. Hij stelde zijn reportage Facebook & ik voor, waarin hij laat zien hoe beïnvloedbaar we zijn door targeted advertenties. Ikzelf had de serie op VRT al gezien, maar het was zeer interessant om hem te horen spreken over zijn ervaringen. Als IT-er lijken veel van de aangehaalde zaken vanzelfsprekend waardoor we soms de impact voor de gewone mens vergeten.
                     </Text>
                     <br/>
                     <Text variant="large">
@@ -83,7 +83,7 @@ export const Seminaries: React.FC = () => {
                     </Text>
                     <br/>
                     <Text variant="large">
-                        Tijdens dit seminarie leerden we over performance testing, iets wat dikwijls vergeten wordt bij het testen van software. Simpel gezegt komt het er op neer dat je bepaalde acties op een web omgeving automatiseert en gaat meten of deze actie binnen een bepaalde tijd afrondt. Er worden ook load tests gedaan om te zien hoe het web platform reageert op hogere loads. Zo kan het bijvoorbeeld zijn dat er foute output komt eens er meer dan x aantal gebruikers op het platform zitten.
+                        Tijdens dit seminarie leerden we over performance testing, iets wat dikwijls vergeten wordt bij het testen van software. Simpel gezegd, komt het erop neer dat je bepaalde acties op een web omgeving automatiseert en gaat meten of deze actie binnen een bepaalde tijd afrondt. Er worden ook load tests gedaan om te zien hoe het web platform reageert op hogere loads. Zo kan het bijvoorbeeld zijn dat er foute output komt eens er meer dan x-aantal gebruikers op het platform zitten.
                     </Text>
                     <br/>
                     <Text variant="large">
@@ -105,7 +105,7 @@ export const Seminaries: React.FC = () => {
                     </Text>
                     <br/>
                     <Text variant="large">
-                        Omdat Secwise en mijn stage bedrijf beide onder de Cronos groep vallen en ze nog eens in het zelfde gebouw zitten ben ik de mensen van Secwise ondertussen nog tegengekomen. Tijdens mijn stage heb ik ook deelgenomen aan een ander seminarie waarin ze dieper ingingen op cloud security.
+                        Omdat Secwise en mijn stagebedrijf beide onder de Cronos groep vallen en ze nog eens in hetzelfde gebouw zitten, ben ik de mensen van Secwise ondertussen nog tegengekomen. Tijdens mijn stage heb ik ook deelgenomen aan een ander seminarie waarin ze dieper ingingen op cloud security.
                     </Text>
                 </div>
             </div>
@@ -123,7 +123,7 @@ export const Seminaries: React.FC = () => {
                     </Text>
                     <br/>
                     <Text variant="large">
-                        Gezien mijn nevenactiviteiten in applicatieontwikkeling en mijn systemen en netwerken achtergrond, vond ik het interessant om hun strategieën en gebruik van tools te leren kennen. Er zijn zeker enkele dingen die ik hier gehoord heb die ik ondertussen zelf heb toegepast.
+                        Gezien mijn nevenactiviteiten in applicatieontwikkeling en mijn achtergrond in systemen en netwerken, vond ik het interessant om hun strategieën en gebruik van tools te leren kennen. Er zijn zeker enkele dingen die ik hier gehoord heb die ik ondertussen zelf heb toegepast.
                     </Text>
                 </div>
             </div>

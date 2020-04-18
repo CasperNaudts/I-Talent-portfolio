@@ -21,7 +21,7 @@ export const Home: React.FC = () => {
                 />
                 <br/>
                 <Text variant="large">
-                    Hoi! Ik ben Casper Naudts. Ik ben een student toegepaste informatica aan Hogeschool PXL en heb een enorme passie voor nieuwe en inovatieve technologieën.
+                    Hoi! Ik ben Casper Naudts. Ik ben een student toegepaste informatica aan Hogeschool PXL en heb een enorme passie voor nieuwe en innovatieve technologieën.
                 </Text>
             </div>
             <div className="portfolio-home-experiences">
@@ -38,11 +38,11 @@ export const Home: React.FC = () => {
                         </Text>
                         <br/>
                         <Text variant="large">
-                            Jibber is het eerste grotere development project waar ik ooit aan begonnen ben. Samen met enkele mede eerstejaarsstudenten zijn we begonnen aan dit platform. Het doel van het platform was om verschillende sociale media platformen samen te bundelen op een chronologische manier. Zo zou je posts van Twitter, Facebook, Instagram, ... in een chronologische tijdlijn krijgen.
+                            Jibber is het eerste grotere development project waar ik ooit aan begonnen ben. Samen met enkele mede-eerstejaarsstudenten zijn we begonnen aan dit platform. Het doel van het platform was om verschillende sociale media platformen samen te bundelen op een chronologische manier. Zo zou je posts van Twitter, Facebook, Instagram, ... in een chronologische tijdlijn krijgen.
                         </Text>
                         <br/>
                         <Text variant="large">
-                            Twitter en Instagram kregen we redelijk snel geintegreerd. Maar helaas bleek dit project al redelijk snel niet mogelijk te zijn door de zware extra beperkingen die Facebook had geïmplementeerd op hun API naar aanleiding van het Cambridge Analytica schandaal. Hierdoor hebben we beslist om niet verder te werken aan Jibber, omdat Facebook een essentieel platform was om te integreren.
+                            Twitter en Instagram kregen we redelijk snel geïntegreerd. Maar helaas bleek dit project al redelijk snel niet mogelijk te zijn door de zware extra beperkingen die Facebook had geïmplementeerd op hun API naar aanleiding van het Cambridge Analytica schandaal. Hierdoor hebben we beslist om niet verder te werken aan Jibber, omdat Facebook een essentieel platform was om te integreren.
                         </Text>
                     </div>
                     <div className="portfolio-home-projects-item-image">
@@ -110,11 +110,11 @@ export const Home: React.FC = () => {
                     <Text variant="xxLargePlus">Terugblik</Text>
                     <br/>
                     <Text variant="large">
-                        Als ik terugkijk op mijn afgelopen 3 PXL jaren, ben ik heel blij met mijn keuze voor PXL. Er zijn zeker en vast dingen die ik met meer goesting gedaan heb dan andere, maar algemeen gezien ben ik tevreden met mijn PXL tijd. Ik apprecieerde het direct en informeel contact met directie en lesgevers. Door op kot te gaan ben ik een stuk zelfstandiger geworden. 
+                        Als ik terugkijk op mijn afgelopen 3 PXL-jaren, ben ik heel blij met mijn keuze voor PXL. Er zijn zeker en vast dingen die ik met meer goesting gedaan heb dan andere, maar algemeen gezien ben ik tevreden met mijn PXL-tijd. Ik apprecieerde het direct en informeel contact met directie en lesgevers. Door op kot te gaan ben ik een stuk zelfstandiger geworden. 
                     </Text>
                     <br/>
                     <Text variant="large">
-                        Door in de studenten commissie te zetelen, voelde ik mij betrokken bij de Hogeschool. Ik heb kunnen bijdragen aan de kwaliteit van de opleiding door deel te nemen aan de interne kwaliteitscontrole.
+                        Door in de studentencommissie te zetelen, voelde ik mij betrokken bij de Hogeschool. Ik heb kunnen bijdragen aan de kwaliteit van de opleiding door deel te nemen aan de interne kwaliteitscontrole.
                     </Text>
                     <br/>
                     <Text variant="large">

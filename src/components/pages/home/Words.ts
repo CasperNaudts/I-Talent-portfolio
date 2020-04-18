@@ -34,7 +34,7 @@ export const Words = [
         value: 6,
     },
     {
-        text: "Studenten commissie",
+        text: "Studentencommissie",
         value: 5,
     },
     {

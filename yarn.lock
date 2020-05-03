@@ -1278,10 +1278,10 @@
   resolved "https://registry.yarnpkg.com/@nodelib/fs.stat/-/fs.stat-1.1.3.tgz#2b5a3ab3f918cca48a8c754c08168e3f03eba61b"
   integrity sha512-shAmDyaQC4H92APFoIaVDHCx5bStIocgvbwQyxPRrbUY20V1EYTbSDchWbuwlMG3V17cprZhA6+78JfB+3DTPw==
 
-"@popperjs/core@^2.2.0":
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.2.1.tgz#d7d1d7fbdc1f2aa24e62f4ef4b001be7727340c5"
-  integrity sha512-BChdj3idQiLi+7vPhE6gEDiPzpozvSrUqbSMoSTlRbOQkU0p6u4si0UBydegTyphsYSZC2AUHGYYICP0gqmEVg==
+"@popperjs/core@^2.3.2":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.4.0.tgz#0e1bdf8d021e7ea58affade33d9d607e11365915"
+  integrity sha512-NMrDy6EWh9TPdSRiHmHH2ye1v5U0gBD7pRYwSwJvomx7Bm4GG04vu63dYiVzebLOx2obPpJugew06xVP0Nk7hA==
 
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
@@ -7631,7 +7631,7 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.106.0, office-ui-fabric-react@^7.110.0:
+office-ui-fabric-react@^7.110.0:
   version "7.110.0"
   resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.110.0.tgz#7438a8bda6862013134aac75a2cf8c5b59985382"
   integrity sha512-oMzLCqWswc6oULU3w2mJjZjdGrhuP6xF5X0ihBGm27N8ruy+E33+yg2s1zMW1JjWt+VYT/6TcwLPn5YQlXIkkQ==
@@ -9200,10 +9200,10 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react-wordcloud@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/react-wordcloud/-/react-wordcloud-1.2.2.tgz#152954174673cf561cab0d183f1ea9244d7fec68"
-  integrity sha512-TwM+OwfJIptxDFpB1p9M9LZv3AGVFmYzzz0cmfTcN/XmrxDIJCTo4cqKLjuTBXRr07oPL5yZfNaTiwtGzNoSyw==
+react-wordcloud@^1.2.3:
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/react-wordcloud/-/react-wordcloud-1.2.3.tgz#b7e19e13bdce22af18c57c1595bb1d98cd416bde"
+  integrity sha512-pRanqs6w6O0uFisG7KRP7qzs0ae4nYABZ//f8HDKMgZbnN/s7xz7I8zGk843kGdCNUD3/rh7xqC0gNv9/t89LQ==
   dependencies:
     d3-array "^2.4.0"
     d3-cloud "^1.2.5"
@@ -9216,7 +9216,7 @@ react-wordcloud@^1.2.2:
     lodash.debounce "^4.0.8"
     resize-observer-polyfill "^1.5.1"
     seedrandom "^3.0.5"
-    tippy.js "^6.0.1"
+    tippy.js "^6.2.0"
 
 react@^16.13.1:
   version "16.13.1"
@@ -10667,12 +10667,12 @@ tiny-warning@^1.0.0, tiny-warning@^1.0.2:
   resolved "https://registry.yarnpkg.com/tiny-warning/-/tiny-warning-1.0.3.tgz#94a30db453df4c643d0fd566060d60a875d84754"
   integrity sha512-lBN9zLN/oAf68o3zNXYrdCt1kP8WsiGW8Oo2ka41b2IM5JL/S1CTyX1rW0mb/zSuJun0ZUrDxx4sqvYS2FWzPA==
 
-tippy.js@^6.0.1:
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-6.1.1.tgz#9ed09aa4f9c47fb06a0e280e03055f898f5ddfff"
-  integrity sha512-Sk+FPihack9XFbPOc2jRbn6iRLA9my2a8qhaGY6wwD3EeW57/xY5PAPkZOutKVYDWLyNZ/laCkJqg7QJG/gqQw==
+tippy.js@^6.2.0:
+  version "6.2.3"
+  resolved "https://registry.yarnpkg.com/tippy.js/-/tippy.js-6.2.3.tgz#0a5db67dc6bd9129233b26052b7ae2b2047fd73e"
+  integrity sha512-MzqHMrr2C0IC8ZUnG5kLQPxonWJ7V+Usqiy2W5b+dCvAfousio0mA85h+Ea5wRq94AQGd8mbFGeciRgkP+F+7w==
   dependencies:
-    "@popperjs/core" "^2.2.0"
+    "@popperjs/core" "^2.3.2"
 
 tmp@^0.0.33:
   version "0.0.33"

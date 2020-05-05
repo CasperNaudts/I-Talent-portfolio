@@ -1024,10 +1024,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
-"@fluentui/react-focus@^7.8.0":
-  version "7.8.0"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-focus/-/react-focus-7.8.0.tgz#4b76d30f5a6a3d77992f460ed09551754c9f1529"
-  integrity sha512-pphBtEYkWxvE6k1hRhQh/6Av4OftSnbOu2KRrIy+KzsskGXUGjVi3j1DRGed1Q7tfcid24KpG3SE8HZR/21FmA==
+"@fluentui/react-focus@^7.9.0":
+  version "7.9.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-focus/-/react-focus-7.9.0.tgz#6dd9a7ff60f6924259e96c89b94bf17bec4fdb86"
+  integrity sha512-KWL+D26rVaXBFW9fIZvk3niKc/X1VI+Mx0IXS/u6yOMcD8jpJDsaQwMAIbAjKQHXE8+bH2MJQYMwQUZAp0O82Q==
   dependencies:
     "@uifabric/merge-styles" "^7.11.1"
     "@uifabric/set-version" "^7.0.11"
@@ -1035,10 +1035,10 @@
     "@uifabric/utilities" "^7.16.0"
     tslib "^1.10.0"
 
-"@fluentui/react-icons@^0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-icons/-/react-icons-0.1.8.tgz#bf347ab84dac55c8d8b30cb508125864fcd942ca"
-  integrity sha512-FjmqlP4MTko7AcFl5FPtxtuy7Wh1yuN4xYaV1GpMDzCIcGsfXkAs3reCPInCSsSO9bykSFJ+TVUsvMqZ2Y+t2A==
+"@fluentui/react-icons@^0.1.9":
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-icons/-/react-icons-0.1.9.tgz#da97e5112041c5b186d4a879cf1990fcc37f430e"
+  integrity sha512-2Ej04jhCnxmoLHSC2LeVQDsKz7B6a1JlUuK0hncxHPvDghKOm9CP/iiLRV/BIjIEVGmss89GfqrrTqtu4QuSXw==
   dependencies:
     "@uifabric/set-version" "^7.0.11"
     "@uifabric/styling" "^7.12.0"
@@ -7631,13 +7631,13 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.110.1:
-  version "7.110.1"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.110.1.tgz#7372105d18cc92731212f9f65e26c4c247985977"
-  integrity sha512-NN5Odbua9AyFqFQnGWwoEPp3TNZzEzUi4iV+9zurKFdc7EiyIdecvtq0rN+5j6cXbbxd4fY2sGZKG3QOLr6I6A==
+office-ui-fabric-react@^7.110.1, office-ui-fabric-react@^7.110.2:
+  version "7.110.2"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.110.2.tgz#8eed0a463b4cf69deeb636168f3dda6c1d2abd6e"
+  integrity sha512-1w8zevhMrHseOy5OkqUazT3vRpZDFJwGGtMdjAYVq9j2gmg5bqFno3HtlgkGQnIRvCuR5c6bAF9yXqjPb6CZrQ==
   dependencies:
-    "@fluentui/react-focus" "^7.8.0"
-    "@fluentui/react-icons" "^0.1.8"
+    "@fluentui/react-focus" "^7.9.0"
+    "@fluentui/react-icons" "^0.1.9"
     "@microsoft/load-themed-styles" "^1.10.26"
     "@uifabric/foundation" "^7.7.7"
     "@uifabric/icons" "^7.3.33"

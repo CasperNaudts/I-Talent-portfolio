@@ -7607,10 +7607,11 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.116.0, office-ui-fabric-react@^7.119.0:
-  version "7.119.0"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.119.0.tgz#368daebda123030ee951560071ee752c127f012d"
-  integrity sha512-qW4xyrWndxMX8bUpeQ/AjE9N4QLKK67mh1Z9hRCb22xwOcZSs2h+i1A2G8VV2gkHGZn3njMTeIf3KgkYkH1wUA==
+office-ui-fabric-react@^7.116.0, office-ui-fabric-react@^7.119.1:
+  version "7.119.1"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.119.1.tgz#3af5b8e58a99ae9ea2afdf232c57018b9a99a301"
+  integrity sha512-PGSybr76qNR+raHhyupivKW1M+z84czgBJXg2bEg8TU71MaAaG1uDYJ2s0ZlOd5VdHLXPd9bBRHZ7WqQJ9lRig==
+
   dependencies:
     "@fluentui/react-focus" "^7.12.7"
     "@fluentui/react-icons" "^0.1.26"

@@ -1061,13 +1061,13 @@
     "@uifabric/utilities" "^7.22.0"
     tslib "^1.10.0"
 
-"@fluentui/react@^7.120.0":
-  version "7.120.0"
-  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.120.0.tgz#e25d70b6acd15df43eaf56ffd23fc725d266847d"
-  integrity sha512-wiYLIhihdukv2yK/BQ5otRr7lKwRT1c6PaitW+7DAY9eUSXp5Rnjjfx1Db9TJls5MYn2zPbFnvBnfPmA+rpMPw==
+"@fluentui/react@^7.121.8":
+  version "7.121.8"
+  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.121.8.tgz#c6eb8e679e50c169b195534d953791019b3e3709"
+  integrity sha512-P8U/dNCBh+P0yMnhLTEPUzZNBht74l5ORSsrwWyhFhZsAT6y0Uq4OIB4d/PzGDXHYXjhlGjQziPMWgJF8O7OfQ==
   dependencies:
-    "@uifabric/set-version" "^7.0.13"
-    office-ui-fabric-react "^7.120.0"
+    "@uifabric/set-version" "^7.0.15"
+    office-ui-fabric-react "^7.121.8"
     tslib "^1.10.0"
 
 "@fortawesome/fontawesome-common-types@^0.2.28", "@fortawesome/fontawesome-common-types@^0.2.29":
@@ -1643,7 +1643,7 @@
     "@uifabric/utilities" "^7.22.0"
     tslib "^1.10.0"
 
-"@uifabric/set-version@^7.0.13", "@uifabric/set-version@^7.0.15":
+"@uifabric/set-version@^7.0.15":
   version "7.0.15"
   resolved "https://registry.yarnpkg.com/@uifabric/set-version/-/set-version-7.0.15.tgz#6708417c081bfd86c47e1a4bcf14b68035cc4af3"
   integrity sha512-A5/hdP8yv/fg7k5F2CfoZXZSexeOZd5JMLFiiwG0gkp/wHm8A025U4cXJQ5WfVDk5zcUpw/z5OZSdnflH2mv0A==
@@ -7616,7 +7616,7 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.120.0, office-ui-fabric-react@^7.121.8:
+office-ui-fabric-react@^7.121.8:
   version "7.121.8"
   resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.121.8.tgz#4afc5cf58720c612518effe82aab26e915d1d50d"
   integrity sha512-aOhlUGCLAJ3cJvBjAfdTY4a/ZQ2zReb/Hzt+5inL6EVingDxl0Ne3Du1dkrA9nVsSC/QCQRLDtq1q9rLQFYXcw==

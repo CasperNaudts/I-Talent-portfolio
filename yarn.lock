@@ -9179,10 +9179,10 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react-wordcloud@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/react-wordcloud/-/react-wordcloud-1.2.3.tgz#b7e19e13bdce22af18c57c1595bb1d98cd416bde"
-  integrity sha512-pRanqs6w6O0uFisG7KRP7qzs0ae4nYABZ//f8HDKMgZbnN/s7xz7I8zGk843kGdCNUD3/rh7xqC0gNv9/t89LQ==
+react-wordcloud@^1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/react-wordcloud/-/react-wordcloud-1.2.5.tgz#ee0620aaacef7304f2d8596903052e8bfe5f9277"
+  integrity sha512-RJnH5L888rZgs/MY6o9To2OKdQgP/W41TsTMV5DnStEa/VDotJjnDc8KbYrNLhqWQ/jdTracZLnh4DnF5z62ow==
   dependencies:
     d3-array "^2.4.0"
     d3-cloud "^1.2.5"

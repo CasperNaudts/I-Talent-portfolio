@@ -3617,10 +3617,10 @@ d3-scale@^3.2.1:
     d3-time "1"
     d3-time-format "2"
 
-d3-selection@1.4.1, d3-selection@^1.1.0:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/d3-selection/-/d3-selection-1.4.1.tgz#98eedbbe085fbda5bafa2f9e3f3a2f4d7d622a98"
-  integrity sha512-BTIbRjv/m5rcVTfBs4AMBLKs4x8XaaLkwm28KWu9S2vKNqXkXt2AH2Qf0sdPZHjFxcWg/YL53zcqAz+3g4/7PA==
+d3-selection@1.4.2, d3-selection@^1.1.0:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/d3-selection/-/d3-selection-1.4.2.tgz#dcaa49522c0dbf32d6c1858afc26b6094555bc5c"
+  integrity sha512-SJ0BqYihzOjDnnlfyeHT0e30k0K1+5sR3d5fNueCNeuhZTnGw4M4o8mqJchSwgKMXCNFo+e2VTChiSJ0vYtXkg==
 
 d3-time-format@2:
   version "2.2.3"
@@ -9179,17 +9179,17 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
-react-wordcloud@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/react-wordcloud/-/react-wordcloud-1.2.3.tgz#b7e19e13bdce22af18c57c1595bb1d98cd416bde"
-  integrity sha512-pRanqs6w6O0uFisG7KRP7qzs0ae4nYABZ//f8HDKMgZbnN/s7xz7I8zGk843kGdCNUD3/rh7xqC0gNv9/t89LQ==
+react-wordcloud@^1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/react-wordcloud/-/react-wordcloud-1.2.6.tgz#ac3126e0513f1b6490b77dba8e6a9793c8aa8efd"
+  integrity sha512-pyoUan47PVTBvj0vJBGiU7EKfkcxLGBB/AVa/eNig7fPFDHXQEOavYX8Cy7Mb3Wa9tRqLKKARV2gaLF/xSoIag==
   dependencies:
     d3-array "^2.4.0"
     d3-cloud "^1.2.5"
     d3-dispatch "^1.0.6"
     d3-scale "^3.2.1"
     d3-scale-chromatic "^1.5.0"
-    d3-selection "1.4.1"
+    d3-selection "1.4.2"
     d3-transition "^1.3.2"
     lodash.clonedeep "^4.5.0"
     lodash.debounce "^4.0.8"

@@ -1061,13 +1061,13 @@
     "@uifabric/utilities" "^7.26.0"
     tslib "^1.10.0"
 
-"@fluentui/react@^7.121.8":
-  version "7.121.8"
-  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.121.8.tgz#c6eb8e679e50c169b195534d953791019b3e3709"
-  integrity sha512-P8U/dNCBh+P0yMnhLTEPUzZNBht74l5ORSsrwWyhFhZsAT6y0Uq4OIB4d/PzGDXHYXjhlGjQziPMWgJF8O7OfQ==
+"@fluentui/react@^7.126.1":
+  version "7.126.1"
+  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.126.1.tgz#cf10f8ffb0ece513928a004edf526edaeaf3efb2"
+  integrity sha512-dhx8x1Q7Bs+d+JZ9CTCFk3B4wFMvbyONs0TmQmqZ/RYCythbx8yeRtWGrIx1M7ViiNsm+QgQQn+9LLGDGw2/8g==
   dependencies:
-    "@uifabric/set-version" "^7.0.15"
-    office-ui-fabric-react "^7.121.8"
+    "@uifabric/set-version" "^7.0.19"
+    office-ui-fabric-react "^7.126.1"
     tslib "^1.10.0"
 
 "@fortawesome/fontawesome-common-types@^0.2.30":
@@ -1643,7 +1643,7 @@
     "@uifabric/utilities" "^7.26.0"
     tslib "^1.10.0"
 
-"@uifabric/set-version@^7.0.15", "@uifabric/set-version@^7.0.19":
+"@uifabric/set-version@^7.0.19":
   version "7.0.19"
   resolved "https://registry.yarnpkg.com/@uifabric/set-version/-/set-version-7.0.19.tgz#026202f682fa073ce76e37337c8b40452ae6e53a"
   integrity sha512-p52z9Z5Kfl0kAU3DiPNPg+0vCdSAxlkRZEtEa+RwM6fh9XSo91n4C56FFdKDW7HJVuhGjMK7UEXuU6ELY1W7fg==
@@ -7616,7 +7616,7 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.121.8, office-ui-fabric-react@^7.126.1:
+office-ui-fabric-react@^7.126.1:
   version "7.126.1"
   resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.126.1.tgz#5ebe70e7ffa2af3abcd93c7422ba28381a959754"
   integrity sha512-Uwmx/Ree8EbHkSHfrdPw6bG7c+OeqPDEEvo60hfI3YBDxtke7KZeMvBGJu5q0zgT9pmNhxDqcdUp5JhM/TmbmQ==

@@ -1024,10 +1024,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
-"@fluentui/date-time-utilities@^7.5.1":
-  version "7.5.1"
-  resolved "https://registry.yarnpkg.com/@fluentui/date-time-utilities/-/date-time-utilities-7.5.1.tgz#dab1db6430efc5fa49368bb8290f5a00f91e46a7"
-  integrity sha512-H3pcp5WRquA9jLrtSiwv5U6WkpNIHKSmoKVGiXLQmont2JtrFPuQ0YfZg1v46jv89mqqJX3hH/9wRagr327rMw==
+"@fluentui/date-time-utilities@^7.6.0":
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/date-time-utilities/-/date-time-utilities-7.6.0.tgz#2a70b3528228cd81cf7d279285305891af7c9494"
+  integrity sha512-lp8BjSF9FW8mpVrfcuVbldVOVZ/lxWzH9xzBG67rkdjIMYwtV0/mFgB6MrKsGvzqDIlvXcoptrcUQNl0/3QA7Q==
   dependencies:
     "@uifabric/set-version" "^7.0.22"
     tslib "^1.10.0"
@@ -7589,12 +7589,12 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.126.3, office-ui-fabric-react@^7.129.1:
-  version "7.129.1"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.129.1.tgz#2d191f4ecedc397d7f214666aa3fd3ee341c05fa"
-  integrity sha512-dOhAlhqEaEMzF0xUk8qceaKVdrchlC2r2NBbzNMen0ZfrLGkVeEar5yHLRUzRGF+ovd2LFPsbGaH37lhtdB2HQ==
+office-ui-fabric-react@^7.129.1, office-ui-fabric-react@^7.130.0:
+  version "7.130.0"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.130.0.tgz#d0c6b726a6b1552e60b6d5026bbcd114ba69b650"
+  integrity sha512-HV5LFSZAp8t3uJrGXhwPc/KHFPSGOka3BehRQnzN+7Ke++Abmynq7sIJSj36sNPa13uSiESfCFf30eY5ajnqPQ==
   dependencies:
-    "@fluentui/date-time-utilities" "^7.5.1"
+    "@fluentui/date-time-utilities" "^7.6.0"
     "@fluentui/react-focus" "^7.13.1"
     "@fluentui/react-icons" "^0.2.1"
     "@microsoft/load-themed-styles" "^1.10.26"

@@ -7600,10 +7600,10 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.126.3, office-ui-fabric-react@^7.133.0:
-  version "7.133.0"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.133.0.tgz#28e8e1eed9e251c9de4b508729985d78ac945455"
-  integrity sha512-F6Bdv1jV++BAarNCD38EQj8mQ5MGnRAvmfrArkYZ7mSaW5+sgJ5TdF0ODkN+cWFU4n4taPSibC5150dvLg/wpA==
+office-ui-fabric-react@^7.133.0, office-ui-fabric-react@^7.133.1:
+  version "7.133.1"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.133.1.tgz#22125025fad6e6bd8b5761bbbbf81f6b8fedae79"
+  integrity sha512-rd5fFzL0yzjWYtE8VQV3LxI6FXMJSa9zVA+/PM4BXwZJDe4EHQzpYgOUqUdZcU/HDfq6DiVMTRYP/w2mlZSfXQ==
   dependencies:
     "@fluentui/date-time-utilities" "^7.6.1"
     "@fluentui/react-focus" "^7.14.0"

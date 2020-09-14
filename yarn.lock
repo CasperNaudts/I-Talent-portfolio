@@ -1657,11 +1657,12 @@
     "@uifabric/set-version" "^7.0.22"
     tslib "^1.10.0"
 
-"@uifabric/react-hooks@^7.12.0":
-  version "7.12.0"
-  resolved "https://registry.yarnpkg.com/@uifabric/react-hooks/-/react-hooks-7.12.0.tgz#85e86ed6149887e47ffa9c14d33bbd66ade27a0b"
-  integrity sha512-vPrg7NVtjjZlDS33tDUiyJSov8PNHBBX8w+EN9eatxP0g6dDkvGv8uWd+9Xpxrliuzi7ad7vlmUMOQffYJntMg==
+"@uifabric/react-hooks@^7.13.0":
+  version "7.13.0"
+  resolved "https://registry.yarnpkg.com/@uifabric/react-hooks/-/react-hooks-7.13.0.tgz#fc1da8da1d337ebc52b7e032d6053d953fbc15d3"
+  integrity sha512-A7K0YFHHr10hB/txsqpPX6PhNhHEv8U7JpY3O81oqlZwSsHroJklQdd897JkAYJUUR+gWe2kQyXkkcaMDdqXjg==
   dependencies:
+    "@fluentui/react-window-provider" "^0.3.0"
     "@uifabric/set-version" "^7.0.22"
     "@uifabric/utilities" "^7.31.0"
     tslib "^1.10.0"
@@ -7606,10 +7607,10 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.133.1, office-ui-fabric-react@^7.134.3:
-  version "7.134.3"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.134.3.tgz#e0f26c86661b357ce0bea47a7c7562db1810778c"
-  integrity sha512-sVOoEIISOe6gVo+5bkiWGrKyiGdAEPB7h3rkfVgfZrQvjt+sgLDjVi6qXHDnmi3p4v6+YeWVdPa73TTAylDzCg==
+office-ui-fabric-react@^7.134.3, office-ui-fabric-react@^7.137.1:
+  version "7.137.1"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.137.1.tgz#58b3c1d2254afb3d7ab1f780cf1fb6929c42fafe"
+  integrity sha512-6m1M9m5psaJqhWwroVp1L0G8q66scLMsQRi+gQ/fY3f75ipGSABGeQ86d4P0ilKaYcLVYIzosocPIZKLbBVpnQ==
   dependencies:
     "@fluentui/date-time-utilities" "^7.8.0"
     "@fluentui/react-focus" "^7.16.0"
@@ -7619,7 +7620,7 @@ office-ui-fabric-react@^7.133.1, office-ui-fabric-react@^7.134.3:
     "@uifabric/foundation" "^7.9.0"
     "@uifabric/icons" "^7.5.0"
     "@uifabric/merge-styles" "^7.18.0"
-    "@uifabric/react-hooks" "^7.12.0"
+    "@uifabric/react-hooks" "^7.13.0"
     "@uifabric/set-version" "^7.0.22"
     "@uifabric/styling" "^7.16.0"
     "@uifabric/utilities" "^7.31.0"

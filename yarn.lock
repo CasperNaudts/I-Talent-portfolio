@@ -1235,13 +1235,13 @@
     "@uifabric/set-version" "^7.0.23"
     tslib "^1.10.0"
 
-"@fluentui/react@^7.147.1":
-  version "7.147.1"
-  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.147.1.tgz#6d27e2f55543af21c01929d874512890406072e0"
-  integrity sha512-Zk3MygGDVEHrgKi1M12ETozWRxQ0Go8O9RP/mXqWQUHcXK++KfAO6xJZTpMKQ9o18Sb/ZQwjIrYPpYc6JwuyfA==
+"@fluentui/react@^7.152.1":
+  version "7.152.1"
+  resolved "https://registry.yarnpkg.com/@fluentui/react/-/react-7.152.1.tgz#6ac0f952923d6c6d2b6814d47dfd03a9516cfd8e"
+  integrity sha512-2Q3oDEK1t6gdpEpq0QJSZL/ihJ2AH53paaoXdRhprk4WqXfyX5qT0uQeuZ9FW9gWpokfpQwYxE/Ns1QWkj3Ocg==
   dependencies:
     "@uifabric/set-version" "^7.0.23"
-    office-ui-fabric-react "^7.147.1"
+    office-ui-fabric-react "^7.152.1"
     tslib "^1.10.0"
 
 "@fluentui/theme@^1.7.0":
@@ -8417,7 +8417,7 @@ office-ui-fabric-core@^11.0.0:
   resolved "https://registry.yarnpkg.com/office-ui-fabric-core/-/office-ui-fabric-core-11.0.0.tgz#73f43c8d1bd40e87971c7cda0ff1aa7bfa246410"
   integrity sha512-K6+KGnBXXjfSxxZpp+4oDXVLgUc//7OnXrn8F08VoJnGhEz27WUf4ZuMa32SjGoqirWlb4JlKkXbOpC9cis6dQ==
 
-office-ui-fabric-react@^7.147.1, office-ui-fabric-react@^7.152.1:
+office-ui-fabric-react@^7.152.1:
   version "7.152.1"
   resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.152.1.tgz#e6da0a72d25ef8404047c2ac21e61b53b4205884"
   integrity sha512-rDkM7gLk5XxYHy/sxWrsBHPhoGb8Qfamba0RuJxUnZJFQkX6l+e9HVVSXO1nu8Hj1JQNH2mgOHaEzaj7gwr11A==
